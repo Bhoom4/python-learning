@@ -21,5 +21,8 @@ This repository contains my daily progress while learning Python from scratch.
 - Type functions and type casting
 - input function
 
+# Day 3
+-chapter 2 practice problems
+
 
 I will update this repository regularly as I continue learning !!
