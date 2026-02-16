@@ -24,5 +24,12 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 3
 -chapter 2 practice problems
 
+# Day 4
+- strings
+- string functions
+- string slicing
+- escape sequence charecter
+- practice problems
+
 
 I will update this repository regularly as I continue learning !!
