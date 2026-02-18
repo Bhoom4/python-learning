@@ -31,5 +31,12 @@ This repository contains my daily progress while learning Python from scratch.
 - escape sequence charecter
 - practice problems
 
+# Day 5
+- lists
+- list methods and slicing
+- tuples
+- tuple methods
+- practice problems
+
 
 I will update this repository regularly as I continue learning !!
