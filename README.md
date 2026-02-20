@@ -39,8 +39,8 @@ This repository contains my daily progress while learning Python from scratch.
 - practice problems
 
 # Day 6
-- dictnoary
-- dictnoary methods
+- dictonary
+- dictonary methods
 - sets and its method
 
 
