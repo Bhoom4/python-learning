@@ -38,5 +38,10 @@ This repository contains my daily progress while learning Python from scratch.
 - tuple methods
 - practice problems
 
+# Day 6
+- dictnoary
+- dictnoary methods
+- sets and its method
+
 
 I will update this repository regularly as I continue learning !!
