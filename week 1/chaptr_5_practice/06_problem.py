@@ -1,0 +1,15 @@
+#create empty dictonary to allow 4 friends to enter their fav language as val and names as key. assume names are unique
+d = {}
+name=input("enter your name:")
+lang=input("enter your fav language:")
+d.update({name:lang})
+name=input("enter your name:")
+lang=input("enter your fav language:")
+d.update({name:lang})
+name=input("enter your name:")
+lang=input("enter your fav language:")
+d.update({name:lang})
+name=input("enter your name:")
+lang=input("enter your fav language:")
+d.update({name:lang})
+print(d)

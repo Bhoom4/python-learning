@@ -42,6 +42,7 @@ This repository contains my daily progress while learning Python from scratch.
 - dictonary
 - dictonary methods
 - sets and its method
+- Practice problems
 
 
 I will update this repository regularly as I continue learning !!
