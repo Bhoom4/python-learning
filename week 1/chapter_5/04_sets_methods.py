@@ -7,3 +7,7 @@ print(a)
 
 print(a.remove(7))
 print(a)
+
+print(a.update("dev"))
+print(a)
+

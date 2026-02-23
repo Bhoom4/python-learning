@@ -6,7 +6,7 @@ print(a+b)
 # assignment operator
 a = 3-1 #assign 4-2 in a
 b = 4
-# b += 2 #increment b by 2 and assign it to b
+#b+= 2 #increment b by 2 and assign it to b
 b /=1  #divide b by 1 and assign it to b
 print(a)
 print(b)

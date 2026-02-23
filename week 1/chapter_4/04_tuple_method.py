@@ -17,3 +17,7 @@ print(concat)
 #length
 kl = (1,2,3,4,5)
 print(len(kl))
+
+#membership 
+kl = (1,2,3,4,5)
+print(8.in(kl))
