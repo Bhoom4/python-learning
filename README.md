@@ -44,5 +44,17 @@ This repository contains my daily progress while learning Python from scratch.
 - sets and its method
 - Practice problems
 
+# Day 7
+- Revision of week 1 completely
+- practiced exercises
+
+## week 2 - Logic Building
+
+# Day 8
+- if statement
+- if-else
+- if-elif-else
+- pracrice problems
+
 
 I will update this repository regularly as I continue learning !!
