@@ -56,5 +56,14 @@ This repository contains my daily progress while learning Python from scratch.
 - if-elif-else
 - pracrice problems
 
+# Day 9
+- intro to loops
+- for loop
+- while loop
+- range()
+- break and continue statements
+- pass statement
+
+
 
 I will update this repository regularly as I continue learning !!
