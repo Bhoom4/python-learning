@@ -22,7 +22,7 @@ This repository contains my daily progress while learning Python from scratch.
 - input function
 
 # Day 3
--chapter 2 practice problems
+- practice problems of day 2
 
 # Day 4
 - strings
@@ -64,6 +64,7 @@ This repository contains my daily progress while learning Python from scratch.
 - break and continue statements
 - pass statement
 
-
+# Day 10
+- practice problems of day 9
 
 I will update this repository regularly as I continue learning !!
