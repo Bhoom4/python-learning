@@ -67,4 +67,7 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 10
 - practice problems of day 9
 
+# Day 11
+- continue practice problem of day 9
+
 I will update this repository regularly as I continue learning !!
