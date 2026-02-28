@@ -70,4 +70,14 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 11
 - continue practice problem of day 9
 
+# Day 12
+- Defining functions
+- Function call
+- Return values
+- default function
+- Recursion function
+
+# Day 13
+
+
 I will update this repository regularly as I continue learning !!
