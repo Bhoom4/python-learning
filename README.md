@@ -46,7 +46,7 @@ This repository contains my daily progress while learning Python from scratch.
 
 # Day 7
 - Revision of week 1 completely
-- practiced exercises
+- practiced exercises 
 
 ## week 2 - Logic Building
 
@@ -70,14 +70,16 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 11
 - continue practice problem of day 9
 
-# Day 12
+# Day 13
 - Defining functions
 - Function call
 - Return values
 - default function
 - Recursion function
 
-# Day 13
+# Day 14
+- day 13 practice questions
+- week 2 revision
 
 
 I will update this repository regularly as I continue learning !!
