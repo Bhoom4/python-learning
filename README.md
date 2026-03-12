@@ -89,6 +89,18 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 15
 - Project 1_of week 1&2
 
+# Day 16
+- files
+- opening files
+- Read() & write()
+- Readlines()
+- append mode
+- with statement
+
+# Day 17
+- practice problems of day 16
+
+
 
 
 
