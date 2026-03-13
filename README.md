@@ -100,6 +100,9 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 17
 - practice problems of day 16
 
+# Day 18 
+- continued practice prob of day_16
+
 
 
 
