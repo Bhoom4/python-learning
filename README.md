@@ -103,6 +103,17 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 18 
 - continued practice prob of day_16
 
+# Day 19
+- classes, Objects, Attributes
+- Instance
+- Methods
+- init constructor 
+- self keyword
+- practice questions
+
+
+
+
 
 
 
