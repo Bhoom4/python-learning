@@ -1,0 +1,18 @@
+class emp:
+    a=1
+
+class manager(emp):
+    b=2
+
+class coder(manager):
+    c=3
+
+o=emp()
+print(o.a)
+
+o=manager()
+print(o.a,o.b)
+
+
+o=coder()
+print(o.a,o.b,o.c)

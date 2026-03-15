@@ -111,6 +111,12 @@ This repository contains my daily progress while learning Python from scratch.
 - self keyword
 - practice questions
 
+# Day 20 - Inheritance & more about OOP's
+- single inheritance
+- method overriding
+- Super() method & more
+- operator overloading
+
 
 
 I will update this repository regularly as I continue learning !!
