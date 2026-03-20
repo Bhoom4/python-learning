@@ -117,6 +117,9 @@ This repository contains my daily progress while learning Python from scratch.
 - Super() method & more
 - operator overloading
 
+# Day 21 
+- practice peoblems of day 20
+
 
 
 I will update this repository regularly as I continue learning !!
