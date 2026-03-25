@@ -122,10 +122,16 @@ This repository contains my daily progress while learning Python from scratch.
 
 
 
-## week 4
+## week 4 - Advance Basics
 
 # Day 22
 - project_2 
+
+# Day 23 - Adv python
+- Walrus operator
+- Types definition 
+- Match case
+- Dictinory merge & update operators
 
 
 
