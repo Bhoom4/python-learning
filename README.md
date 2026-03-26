@@ -133,6 +133,13 @@ This repository contains my daily progress while learning Python from scratch.
 - Match case
 - Dictinory merge & update operators
 
+# Day 24
+- Exception handling
+- raising exception
+- try with else,finally
+- list comprehension
+
+
 
 
 I will update this repository regularly as I continue learning !!
