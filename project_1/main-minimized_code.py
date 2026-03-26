@@ -1,6 +1,6 @@
 '''snake,water,gun game!!!'''
 
-import random  #module
+import random  
 computer=random.choice([-1,0,1])
 istr=input("enter your choice: ")
 idict={"s":1,"w":-1,"g":0}

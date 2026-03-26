@@ -1,5 +1,5 @@
 import random
-n = random.randint(1,100)
+n = random.randint(1,100) #it chooses an random number from 
 a=-1
 guesses=1
 while(a!=n):
