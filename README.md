@@ -118,7 +118,7 @@ This repository contains my daily progress while learning Python from scratch.
 - operator overloading
 
 # Day 21 
-- practice peoblems of day 
+- practice problems of day 20
 
 
 
@@ -141,11 +141,11 @@ This repository contains my daily progress while learning Python from scratch.
 
 # Day 25 - Adv python-2
 - Practice problems of  adv python-1
-- virtual env
-- lambda function
-- join method
-- format method
-- map,filter and reduce
+- Virtual env
+- Lambda function
+- Join method
+- Format method
+- Map,Filters and Reduce
  
 
 
