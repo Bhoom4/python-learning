@@ -127,7 +127,7 @@ This repository contains my daily progress while learning Python from scratch.
 # Day 22
 - project_2 
 
-# Day 23 - Adv python
+# Day 23 - Adv python-1
 - Walrus operator
 - Types definition 
 - Match case
@@ -138,6 +138,11 @@ This repository contains my daily progress while learning Python from scratch.
 - raising exception
 - try with else,finally
 - list comprehension
+
+# Day 25 
+- Practice problems of  adv python-1
+ 
+
 
 
 
