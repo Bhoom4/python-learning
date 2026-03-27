@@ -139,12 +139,14 @@ This repository contains my daily progress while learning Python from scratch.
 - try with else,finally
 - list comprehension
 
-# Day 25 
+# Day 25 - Adv python-2
 - Practice problems of  adv python-1
+- virtual env
+- lambda function
+- join method
+- format method
+- map,filter and reduce
  
-
-
-
 
 
 I will update this repository regularly as I continue learning !!
