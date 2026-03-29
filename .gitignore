@@ -3,5 +3,5 @@ env/
 env1/
 env2/
 __pycache__/
-*.__pycache__
+*.pyc
 
