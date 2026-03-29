@@ -146,6 +146,9 @@ This repository contains my daily progress while learning Python from scratch.
 - Join method
 - Format method
 - Map,Filters and Reduce
+
+# Day 26 
+- practice problems of day 25th
  
 
 
